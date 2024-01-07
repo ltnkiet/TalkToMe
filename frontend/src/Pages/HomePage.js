@@ -30,7 +30,7 @@ const HomePage = () => {
         display='flex'
         justifyContent="center"
         p={2}
-        bg={"white"}
+        bg={"white"}  
         w="100%"
         m="30px 0 0 0"
         borderRadius="lg"

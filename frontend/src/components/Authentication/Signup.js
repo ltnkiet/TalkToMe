@@ -189,7 +189,7 @@ const Signup = () => {
         style={{ marginTop: 15 }}
         onClick={submitHandler}
         isLoading={picLoading}>
-        Sign Up
+        Đăng ký
       </Button>
     </VStack>
   );
